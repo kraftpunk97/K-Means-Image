@@ -1,0 +1,137 @@
+C:\Users\kxg220013\AppData\Local\Programs\Python\Python310\python.exe "C:\Users\kxg220013\Documents\Machine Learning\K-Means-Image\main.py"
+Processing Koala.jpg for k = 2
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Koala.jpg" before K-mean for k=2: 762.5302734375KB
+Size of image "Koala_2.jpg" after K-mean for k=2: 129.0302734375 KB
+Processing Koala.jpg for k = 5
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Koala.jpg" before K-mean for k=5: 762.5302734375KB
+Size of image "Koala_5.jpg" after K-mean for k=5: 173.6103515625 KB
+Processing Koala.jpg for k = 10
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Koala.jpg" before K-mean for k=10: 762.5302734375KB
+Size of image "Koala_10.jpg" after K-mean for k=10: 159.8115234375 KB
+Processing Koala.jpg for k = 15
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Koala.jpg" before K-mean for k=15: 762.5302734375KB
+Size of image "Koala_15.jpg" after K-mean for k=15: 152.25 KB
+Processing Koala.jpg for k = 20
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Koala.jpg" before K-mean for k=20: 762.5302734375KB
+Size of image "Koala_20.jpg" after K-mean for k=20: 151.998046875 KB
+Average compression ratio: 5.019689796392887
+Variance in compression ratios: 0.24952744242900965
+Processing Penguins.jpg for k = 2
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Penguins.jpg" before K-mean for k=2: 759.6044921875KB
+Size of image "Penguins_2.jpg" after K-mean for k=2: 83.1708984375 KB
+Processing Penguins.jpg for k = 5
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Penguins.jpg" before K-mean for k=5: 759.6044921875KB
+Size of image "Penguins_5.jpg" after K-mean for k=5: 101.9755859375 KB
+Processing Penguins.jpg for k = 10
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Penguins.jpg" before K-mean for k=10: 759.6044921875KB
+Size of image "Penguins_10.jpg" after K-mean for k=10: 114.0849609375 KB
+Processing Penguins.jpg for k = 15
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Penguins.jpg" before K-mean for k=15: 759.6044921875KB
+Size of image "Penguins_15.jpg" after K-mean for k=15: 117.5859375 KB
+Processing Penguins.jpg for k = 20
+Running iteration: 1/50
+Running iteration: 5/50
+Running iteration: 10/50
+Running iteration: 15/50
+Running iteration: 20/50
+Running iteration: 25/50
+Running iteration: 30/50
+Running iteration: 35/50
+Running iteration: 40/50
+Running iteration: 45/50
+Size of image "Penguins.jpg" before K-mean for k=20: 759.6044921875KB
+Size of image "Penguins_20.jpg" after K-mean for k=20: 114.0498046875 KB
+Average compression ratio: 7.272091800983551
+Variance in compression ratios: 0.9810142978833278
+
+Process finished with exit code 0
